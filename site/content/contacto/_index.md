@@ -10,5 +10,5 @@ contact_entries:
 
 Nos encantaría poder ponernos en contacto con usted para poder realizar cálculo y presupuesto de su futura obra.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2"></h3>
 
