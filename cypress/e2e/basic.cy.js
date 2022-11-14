@@ -4,7 +4,7 @@ describe('empty spec', () => {
   })
 
   it('opens the index page', () => {
-    cy.get('h1').contains('Contactate con nosotros')
+    cy.get('h1').contains('Mecon Construcciones')
   })
 
   it('navigates to the obras page', () => {
